@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CoreWcfService/CoreWcfService.csproj" />
+  <Project Path="HttpClientApp/HttpClientApp.csproj" />
+  <Project Path="TcpClientApp/TcpClientApp.csproj" />
+</Solution>
